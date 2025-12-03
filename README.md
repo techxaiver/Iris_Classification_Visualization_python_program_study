@@ -9,8 +9,6 @@
 - [classifier2d.py](e:\python_program_study\实验3\project3\classifier2d.py)：二维决策边界与分类概率可视化，支持逻辑回归、决策树和支持向量机。
 - [3dprobmap.py](e:\python_program_study\实验3\project3\3dprobmap.py)：三维概率分布与决策边界投影，支持二分类。
 - [3dboundary.py](e:\python_program_study\实验3\project3\3dboundary.py)：三维决策边界等值面提取与可视化，支持二分类。
-- __pycache__/: Python 缓存文件夹。
-- .vscode/: VSCode 编辑器配置。
 
 ## 环境依赖
 
